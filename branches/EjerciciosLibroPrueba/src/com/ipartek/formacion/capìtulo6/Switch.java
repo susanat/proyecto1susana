@@ -1,5 +1,7 @@
 package com.ipartek.formacion.capìtulo6;
 
+//esto es un comentario
+
 public class Switch {
 
 	public static void main(String[] args) {
